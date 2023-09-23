@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client-Server-Client/Client-Server-Client.iml" filepath="$PROJECT_DIR$/Client-Server-Client/Client-Server-Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiClientServer/MultiClientServer.iml" filepath="$PROJECT_DIR$/MultiClientServer/MultiClientServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SocketPrograming.iml" filepath="$PROJECT_DIR$/.idea/SocketPrograming.iml" />
     </modules>

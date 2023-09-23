@@ -20,8 +20,6 @@ public class Client {
             if(message.equals("exit")){
                 break;
             }
-
-            //sent to server...
             oos.writeObject(message);
 
             try {

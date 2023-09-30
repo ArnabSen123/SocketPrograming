@@ -15,8 +15,6 @@ public class Server {
 
             // new Server Thread Start.....
             new ServerThread(socket);
-
-
         }
     }
 }
